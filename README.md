@@ -3,8 +3,10 @@ MZO Image Comparison App
 
 <img src="icon.png" width="300">
 
-An iPad App to compare two images, that accompanies the ['Master of Okoličné and Gothic Art of Spiš around 1500'](https://www.sng.sk/sk/vystavy/1064_majster-z-okolicneho-a-goticke-umenie-spisa-okolo-roku-1500) exhibition at the Slovak National Gallery, 7 September - 26 November 2017.
+An iPad App to compare two images, that accompanies the [Master of Okoličné and Gothic Art of Spiš around 1500](https://www.sng.sk/sk/vystavy/1064_majster-z-okolicneho-a-goticke-umenie-spisa-okolo-roku-1500) exhibition at the Slovak National Gallery, 7 September - 26 November 2017.
 It is an open source mobile application built using Apache Cordova, written entirely in HTML, CSS and JavaScript, and runs on numerous platforms (tested for iOS).
+
+See the [demo online](https://slovaknationalgallery.github.io/mzo-image-comparison-app/www/index.html).
 
 It's based on [image-comparison-slider](https://github.com/CodyHouse/image-comparison-slider).
 
