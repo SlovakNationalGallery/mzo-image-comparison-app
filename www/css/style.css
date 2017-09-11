@@ -9,8 +9,7 @@ Primary style
   box-sizing: border-box; }
 
 html, body {
-  height: 100%;
-  overflow: hidden; }
+  height: 100%; }
 
 body {
   font-size: 100%;
@@ -49,7 +48,7 @@ Main components
 -------------------------------- */
 .cd-image-container {
   position: relative;
-  max-width: 768px;
+  max-width: 1170px;
   margin: 0em auto; }
   .cd-image-container img {
     display: block; }

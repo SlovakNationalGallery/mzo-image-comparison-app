@@ -40,7 +40,7 @@ cordova-splash
 ## Development
 
 For adjusting style, you can use SASS and Bourbon (http://bourbon.io/). 
-In www folder run:
+Inside the `www` folder run the following commands:
 
 ```
 sudo gem install bourbon
@@ -50,5 +50,11 @@ cd ../
 sass --watch scss:css
 ```
 
+Images are placed in:
+
+```
+www/img/img-original.jpg
+www/img/img-modified.jpg
+```
 
 
